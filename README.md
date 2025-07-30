@@ -4,7 +4,7 @@ This project explores how NBA draft pick number and college attended affect the 
 
 ## 📁 What's Included
 
-- `nba_draft_career_analysis.ipynb`: The full analysis done in Google Colab
+- `NBA_Draft_Career_Analysis.ipynb`: The full analysis done in Google Colab
 - `NBA Draft Career Analysis Report.pdf`: Final report summarizing methodology and results
 
 ## 🔧 Tools Used
